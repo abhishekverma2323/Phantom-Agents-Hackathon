@@ -45,13 +45,14 @@ It helps users track their **health profile**, get **fitness tips**, calculate *
 ## 📂 Project Structure
 
 📦 AI HEALTH COMPANION
-┣ 📜 app.py # Flask server
-┣ 📜 database.py # Database models & functions
-┣ 📜 brain.py # Bot logic (rules + learning memory)
-┣ 📜 static/ # CSS, JS, Images
-┣ 📜 templates/ # HTML UI
-┣ 📜 README.md # Project Docs
-┗ 📜 requirements.txt
+
+-📜 app.py # Flask server
+-📜 database.py # Database models & functions
+-📜 brain.py # Bot logic (rules + learning memory)
+-📜 static/ # CSS, JS, Images
+-📜 templates/ # HTML UI
+-📜 README.md # Project Docs
+-📜 requirements.txt
 ---
 🧠 How the Bot Thinks
 
