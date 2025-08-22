@@ -52,7 +52,7 @@ It helps users track their **health profile**, get **fitness tips**, calculate *
 ┣ 📜 templates/ # HTML UI
 ┣ 📜 README.md # Project Docs
 ┗ 📜 requirements.txt
-
+---
 🧠 How the Bot Thinks
 
 Rule-based engine → Handles BMI, greetings, predefined tips.
@@ -62,7 +62,7 @@ Learning memory → Stores diet/goals in DB.
 Query similarity → Uses TF-IDF to match new queries with past knowledge.
 
 Personalized responses → Bot replies differently depending on memory.
-
+---
 🚀 Future Enhancements
 
  Integrate OpenAI API / LLM for advanced replies
@@ -72,7 +72,7 @@ Personalized responses → Bot replies differently depending on memory.
  Mobile-first PWA design
 
  Nutrition & workout plan generator
-
+---
 👨‍💻 Team HackVengers
 
 Built with ❤️ at Phantom Agents.
